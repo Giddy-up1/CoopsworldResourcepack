@@ -1,0 +1,2 @@
+# CoopsworldResourcepack
+Coopsworld
